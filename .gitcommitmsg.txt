@@ -1,0 +1,6 @@
+short discription of commit
+[do not type this. enter a new line]
+Longer explaination of the movtivation for the change
+[do not type this. enter a new line]
+Fixes-bug: Enter bug-id or delete line
+implements-Requirement: Enter requirement-id or delete line
